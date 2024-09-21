@@ -2,7 +2,7 @@
 
 ## Overview
 
-Monopoly board in C++ implemented using circular linked lists. Each node represents a property on the Monopoly board. \
+Monopoly board data class in C++ implemented using circular linked lists. Each node represents a property on the board. \
 Tasks implemented: **Insert**, **Delete**, **Search**, **Display**, **Reverse**, **Sort**, **Merge**, **Update**,
 **Count**, and **Convert**. \
 Additionally, there are helper functions to get the information of the head and tail nodes.
