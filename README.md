@@ -41,10 +41,8 @@ a proper build environment for C++.
 Now, open a terminal window in the project directory and execute the following code:
 
 ```
-mkdir build 
-cd build
-cmake ..
-make
+cmake -B build
+cmake --build build
 ```
 
 If the project was built successfully, you should now find a `Monopoly_Board` file inside the `build` folder which can be
